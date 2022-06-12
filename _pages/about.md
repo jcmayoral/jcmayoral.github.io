@@ -6,10 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_peru.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <!--p>555 your office number</p>
+    <p>123 your address street</p-->
     <p>Mexico City, Mexico</p>
 
 news: true  # includes a list of news items
