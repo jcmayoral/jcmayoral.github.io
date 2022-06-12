@@ -1,10 +1,10 @@
 ---
 layout: page
-title: GrassRobotics Projects
-description: Robotic Automation of Grass Cutting and Harvesting
+title: Web Designer
+description: Development of Websites for different applications
 img: assets/img/yothorvald.jpg
-importance: 1
-category: work
+importance: 3
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

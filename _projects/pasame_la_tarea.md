@@ -1,10 +1,10 @@
 ---
 layout: page
-title: GrassRobotics Projects
-description: Robotic Automation of Grass Cutting and Harvesting
+title: Pasame La Tarea
+description: Educational Platform Designed for Rural Communities
 img: assets/img/yothorvald.jpg
 importance: 1
-category: work
+category: volunteering
 ---
 
 Every project has a beautiful feature showcase page.
