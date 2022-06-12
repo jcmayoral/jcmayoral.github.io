@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GrassRobotics Projects
+title: GrassRobotics
 description: Robotic Automation of Grass Cutting and Harvesting
 img: assets/img/yothorvald.jpg
 importance: 1
