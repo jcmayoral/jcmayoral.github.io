@@ -4,7 +4,7 @@ title: Pasame La Tarea
 description: Educational Platform Designed for Rural Communities
 img: assets/img/yothorvald.jpg
 importance: 2
-category: volunteering
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
