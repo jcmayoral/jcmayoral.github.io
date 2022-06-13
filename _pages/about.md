@@ -10,7 +10,7 @@ profile:
   address: >
     <!--p>555 your office number</p>
     <p>123 your address street</p-->
-    <p>Mexico City, Mexico</p>
+    <p>Currently in Mexico City, Mexico</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
