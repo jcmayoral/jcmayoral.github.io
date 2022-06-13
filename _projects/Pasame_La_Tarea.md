@@ -8,7 +8,7 @@ category: fun
 ---
 
 The <b>Pasame La Tarea </b> started as a educational platform that aims to counterattack the impact of the pandemic in the educational quality in Mexico.
-The platform is designed to align the social context on Mexican indigenous communities proving teachers a new platform to grade and give feedback in multi-level schools using the famous communication platform "Whatsapp". The interface for teachers is deployed on this <a href=https://pasamelatarea.online/login>link </a>.
+The platform is designed to align the social context on Mexican indigenous communities proving teachers a new platform to grade and give feedback in multi-level schools using the famous communication platform "Whatsapp". The interface for teachers is deployed on this <a href="https://pasamelatarea.online/login">link </a>.
 
 
 <div class="row">
