@@ -7,6 +7,12 @@ importance: 1
 category: work
 ---
 
+<h1> GrassRobotics Project </h1>
+
+Official Website <a href="https://www.nmbu.no/en/projects/node/34459">NMBU GrassRobotics project link </a>
+
+<b> Final Project Video </b>
+
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/4DQEL-MM1AE">
 </iframe>
@@ -20,7 +26,6 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
--->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -80,3 +85,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+-->
