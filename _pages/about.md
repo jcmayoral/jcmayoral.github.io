@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.nmbu.no/en/faculty/realtek/research/groups/roboticsandcontrol'>NMBU PhD Candidate</a>.
 
 profile:
   align: right
