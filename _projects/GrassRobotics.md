@@ -8,7 +8,7 @@ category: work
 ---
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=4DQEL-MM1AE">
+src="https://www.youtube.com/embed/4DQEL-MM1AE">
 </iframe>
 
 <!--
