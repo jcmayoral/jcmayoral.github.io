@@ -11,6 +11,8 @@ I believe that Web technologies are not being exploited as good as it could in f
 
 My websites links are:
 
-<a href=https://pasamelatarea.online/login> Pasame La Tarea </a>
-<a href=https://grassrobotics.sytes.net> GrassRobotics Demo (only available on request) </a>
-<a href=https://www.dermatopets.com/> Dermatopets </a>
+<ul>
+  <li><a href="https://pasamelatarea.online/login"> Pasame La Tarea </a></li>
+  <li><a href="https://grassrobotics.sytes.net"> GrassRobotics Demo (only available on request) </a></li>
+  <li><a href="https://www.dermatopets.com/"> Dermatopets </a></li>
+</ul>
