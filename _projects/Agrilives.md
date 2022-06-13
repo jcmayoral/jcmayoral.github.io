@@ -2,7 +2,7 @@
 layout: page
 title: Agrilives
 description: The Sensor Decade Contest
-img: assets/img/hbrs.jpg
+img: assets/img/agrilives.png
 importance: 3
 category: work
 ---
