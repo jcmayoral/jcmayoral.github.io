@@ -2,8 +2,8 @@
 layout: page
 title: Collision Detection and Recovery
 description: My Master Thesis
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/hbrs.jpg
+importance: 2
 category: work
 ---
 

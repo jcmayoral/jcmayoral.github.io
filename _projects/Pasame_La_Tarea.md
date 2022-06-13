@@ -3,7 +3,7 @@ layout: page
 title: Pasame La Tarea
 description: Educational Platform Designed for Rural Communities
 img: assets/img/Pasamelatarea.png
-importance: 2
+importance: 1
 category: fun
 ---
 
