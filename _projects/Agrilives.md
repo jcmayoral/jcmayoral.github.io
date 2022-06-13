@@ -1,0 +1,21 @@
+---
+layout: page
+title: Agrilives
+description: The Sensor Decade Contest
+img: assets/img/hbrs.jpg
+importance: 3
+category: work
+---
+
+Agrilives borned as a innitiative between Prof. Antonio Leite and Abhished Pal (Ph.D Candidate) to participate in <a href="https://www.sensordecade.com/the-student-challenge">the Student Challenge of The Sensor Decade Contest </a> with the Norwegian University of Life Sciences.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/collision_pipeline.jpeg" title="Collision Pipeline" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/jenny.jpg" title="Cob 3 Robot" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+More information about the innitiative can be found in <a href="http://agrilives.ddns.net/"> The Agrilives Website </a>.
