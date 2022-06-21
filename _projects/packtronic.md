@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Packtronin
+title: Packtronick
 description: Entrepreneurship
 #img: assets/img/agrilives.png
 importance: 5
