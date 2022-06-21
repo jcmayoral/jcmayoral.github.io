@@ -1,7 +1,7 @@
 ---
 layout: work
 permalink: /work/
-title: Work Experience
+title: work
 nav: true
 nav_order: 4
 ---
