@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: page
 permalink: /work/
 title: work
 nav: true
